@@ -4,6 +4,7 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 
 Files:
 
+"Multiple_Year_Stock_Data.xlsm" is the data file after running script
 "StockAnalyzer.vbs" is the VBA module to use for this assignment  
 "2014 Stock Analysis.JPG" is a screenshot of worksheet 2014 after running script
 "2015 Stock Analysis.JPG" is a screenshot of worksheet 2015 after running script
