@@ -24,6 +24,8 @@ To examine the data files and the VBA script, their locations are indicated in t
 	* *"2016 Stock Analysis.JPG"* (screenshot of worksheet 2016 after running script)
 * **"Raw Data"** (folder)
 	* *"Raw_Stock_Data.xlsx"* (data file before running script)
+	
+(Please do not delete, move, rename, or alter!)
 <br><br>
 
 #### Screenshot of 2014 Stock Analysis:
